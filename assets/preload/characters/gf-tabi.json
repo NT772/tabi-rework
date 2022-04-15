@@ -3,46 +3,33 @@
 		{
 			"loop": false,
 			"offsets": [
-				2,
-				0
-			],
-			"anim": "singUP",
-			"fps": 24,
-			"name": "GF Dancing Beat Hair blowing CAR",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				0
+				-2,
+				-23
 			],
 			"fps": 24,
-			"anim": "danceRight",
+			"anim": "sad",
 			"indices": [
-				15,
-				16,
-				17,
-				18,
-				19,
-				20,
-				21,
-				22,
-				23,
-				24,
-				25,
-				26,
-				27,
-				28,
-				29
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
 			],
-			"name": "GF Dancing Beat Hair blowing CAR"
+			"name": "gf sad"
 		},
 		{
 			"loop": false,
 			"offsets": [
 				0,
-				0
+				-9
 			],
 			"fps": 24,
 			"anim": "danceLeft",
@@ -64,11 +51,38 @@
 				13,
 				14
 			],
-			"name": "GF Dancing Beat Hair blowing CAR"
+			"name": "GF Dancing Beat"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-9
+			],
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29
+			],
+			"name": "GF Dancing Beat"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/gfCar",
+	"image": "characters/GF_TABI",
 	"position": [
 		0,
 		0
@@ -85,5 +99,5 @@
 		0
 	],
 	"sing_duration": 4,
-	"scale": 1
+	"scale": 1.2
 }
